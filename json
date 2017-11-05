@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "message": "成功",
+    "time": "2017-11-05",
+    "data": {
+        "id": 9001,
+        "username": "zhangsan",
+        "password": "123"
+    }
+}
